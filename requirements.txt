@@ -1,0 +1,2 @@
+CherryPy==18.8.0
+compute_rhino3d==0.12.2
